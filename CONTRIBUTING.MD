@@ -23,14 +23,14 @@ You make a  quick edit to a topic as follows:
 
 3. Make your changes in the web editor. Click the _**Preview changes**_ tab if you want to check the formatting of your change.
 
-4. Once you're happy with your changes, scroll to the bottom of the page, enter a title and description for your changes and click **Propose file changes**.
+4. Once you're happy with your changes, scroll to the bottom of the page, enter a title and description for your changes and click **Propose file change**.
     >![](docs/images/propose-file-changes75pct.png)
 
-5. Now that you've proposed your change, you need to create a pull request to ask the owners of the repository to "pull" your changes into their repository. If you're new to GitHub, see [About Pull Requests](https://help.github.com/en/articles/about-pull-requests) for more information.. When you clicked on **Propose file change** in the figure above, you should have been taken to a new page that looks like this:
+5. Now that you've proposed your change, you need to create a pull request to ask the owners of the repository to "pull" your changes into their repository. If you're new to GitHub, see [About Pull Requests](https://help.github.com/en/articles/about-pull-requests) for more information. When you clicked on **Propose file change**, you should have been taken to a new page that looks like this:
 
     >![](docs/images/create-pull-request75pct.png)
 
-6. Click **Create pull request**, enter a title (and optionally a description) for the pull request, and then click **Create pull request** again. 
+6. Click **Create pull request**, enter a title and a meanigful description for the pull request, and then click **Create pull request** again. 
 
 **Once you've submitted your pull request**
 
