@@ -19,16 +19,16 @@ You make a  quick edit to a topic as follows:
 1. Click the **Edit this topic** button to open the source file on GitHub. If the **Edit this topic** button, that means the topic is not available to be changed.
 2. Next, click the pencil icon, to edit the topic as shown below. If the pencil icon is grayed out, you need to either sign in to your GitHub account or create a new account.
 
-    >![](images/edit-in-github.png) 
+    >![](docs/images/edit-in-github.png) 
 
 3. Make your changes in the web editor. Click the _**Preview changes**_ tab if you want to check the formatting of your change.
 
 4. Once you're happy with your changes, scroll to the bottom of the page, enter a title and description for your changes and click **Propose file changes**.
-    >![](images/propose-file-changes75pct.png)
+    >![](docs/images/propose-file-changes75pct.png)
 
 5. Now that you've proposed your change, you need to create a pull request to ask the owners of the repository to "pull" your changes into their repository. If you're new to GitHub, see [About Pull Requests](https://help.github.com/en/articles/about-pull-requests) for more information.. When you clicked on **Propose file change** in the figure above, you should have been taken to a new page that looks like this:
 
-    >![](images/create-pull-request75pct.png)
+    >![](docs/images/create-pull-request75pct.png)
 
 6. Click **Create pull request**, enter a title (and optionally a description) for the pull request, and then click **Create pull request** again. 
 
