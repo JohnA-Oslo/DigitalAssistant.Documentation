@@ -1,4 +1,4 @@
-# Making contributions to the Unit4 People Platform documentation
+# Contributing to the Unit4 People Platform documentation
 
 Thanks for wishing to contribute to the Unit4 People Platform documentation and this guide covers what you need to know. To make contributions you must have a GitHub account which is free and easy to create.
 
