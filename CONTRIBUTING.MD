@@ -1,36 +1,30 @@
 # Making contributions to the Unit4 People Platform documentation
 
-This guide covers how you can contribute to the Unit4 People Platform documentation.
+Thanks for wishing to contribute to the Unit4 People Platform documentation and this guide covers what you need to know. To make contributions you must have a GitHub account which is free and easy to create.
 
- > You must have a GitHub account to make contributions to the People Platform documentation.
+The Unit4 People Platform documentation is hosted on GitHub and is open source with public-facing repositories. This allows ourusers of our products to contribute directly to our documentation and communicate with our developer teams via pull requests.
 
-The Unit4 People Platform documentation is hosted on GitHub and is open source with public-facing repositories. This allows the users of our products to contribute directly to our documentation and communicate with our developer teams via pull requests.
+The documentation is written using Markdown which is an easy-to-read, easy-to-write syntax for formatting plain text. If you're new to Markdown then see [this guide](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) for more details.
 
-You can make two types of contribution to the Unit4 People Platform documentation:
+Each topic on the Unit4 People Platform documentation website includes an **Edit this topic** button to allow you to suggest changes. When you click this button, the corresponding source file is opened in GitHub for you to edit.
 
-- Quick edits where you want to make minor edits to a topic such as fix a type of correct a sentence etc.
-- Bigger contributions where you want to add one or more new topics
-## Making quick edits to existing topics
+#### Making quick edits
+To make quick edits where you want to do something such as fix a type or correct a sentence etc. you can just use the GitHub portal as follows:
 
-Making quick edits to topics makes it faster and simpler to report and fix small errors and omissions in documents such as small typos or incomplete or inaccurate sentences. Each topic features an **Edit this topic** button allowing you to open the file for editing.
-
-You make a  quick edit to a topic as follows:
-
-1. Click the **Edit this topic** button to open the source file on GitHub. If the **Edit this topic** button, that means the topic is not available to be changed.
-2. Next, click the pencil icon, to edit the topic as shown below. If the pencil icon is grayed out, you need to either sign in to your GitHub account or create a new account.
+1. When the topic is open, click the pencil icon to edit the topic as shown below.
 
     >![](docs/images/edit-in-github.png) 
 
-3. Make your changes in the web editor. Click the _**Preview changes**_ tab if you want to check the formatting of your change.
+2. Make your changes in the web editor. Click the _**Preview changes**_ tab if you want to check the formatting of your change.
 
-4. Once you're happy with your changes, scroll to the bottom of the page, enter a title and description for your changes and click **Propose file change**.
+3. Once you're happy with your changes, scroll to the bottom of the page, enter a title and description for your changes and click **Propose file change**.
     >![](docs/images/propose-file-changes75pct.png)
 
-5. Now that you've proposed your change, you need to create a pull request to ask the owners of the repository to "pull" your changes into their repository. If you're new to GitHub, see [About Pull Requests](https://help.github.com/en/articles/about-pull-requests) for more information. When you clicked on **Propose file change**, you should have been taken to a new page that looks like this:
+4. Now that you've proposed your change, you need to create a pull request to ask the owners of the repository to "pull" your changes into their repository. If you're new to GitHub, see [About Pull Requests](https://help.github.com/en/articles/about-pull-requests) for more information. When you clicked on **Propose file change**, you should have been taken to a new page that looks like this:
 
     >![](docs/images/create-pull-request75pct.png)
 
-6. Click **Create pull request**, enter a title and a meanigful description for the pull request, and then click **Create pull request** again. 
+5. Click **Create pull request**, enter a title and a meanigful description for the pull request, and then click **Create pull request** again. 
 
 **Once you've submitted your pull request**
 
